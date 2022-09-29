@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;1,200;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+}
+
+main {
+  max-width: 1024px;
+  margin: auto;
+}
+
+p {
+  font-weight: 900;
+}
+
+#trybewarts-header-title {
+  font-size: 25px;
+}
+
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.header1 {
+  padding: 0 1em;
+}
+
+h2 {
+  font-size: 25px;
+  padding: 1em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.trybewarts-login {
+  display: flex;
+  margin: 1em;
+}
+
+#botao {
+  padding: 0 10px;
+  background-color: rgb(78, 44, 131);
+  color: white;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+.trybewarts-header-logo {
+  height: 50px;
+}
+
+#evaluation-form {
+  width: 675px;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 1rem;
+}
+
+.container {
+  display: flex;
+}
+
+.container-rate {
+  display: flex;
+}
+
+.footer {
+  display: flex;
+  background-color: rgb(43, 106, 94);
+  color: white;
+  padding: 3em;
+  bottom: 0;
+  justify-content: center;
+}
+
+input {
+  background-color: white;
+  border-radius: 7px;
+  border-color: rgb(0, 165, 170);
+  padding: 0.4em;
+}
+
+#label-rate {
+  margin-right: 10px;
+}
+
+#house {
+  width: 12em;
+  padding: 0.5em;
+}
+
+#counter {
+  text-align: end;
+  font-size: 12px;
+  color: rgb(59, 59, 59);
+}
+
+#textarea {
+  height: 80px;
+}
+
+.textarea-container {
+  display: flex;
+  flex-direction: column;
+}
+
+#submit-btn {
+  padding: 0.5em 1em;
+  background-color: rgb(78, 44, 131);
+  color: white;
+  margin-top: 10px;
+  font-weight: 700;
+}
