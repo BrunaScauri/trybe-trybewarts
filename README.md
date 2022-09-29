@@ -21,6 +21,6 @@ Neste projeto, foram verificadas as seguintes habilidades:
     * `npm install`
 
 3. Abra o site com o aplicativo Live Server no VS Code:
-    * `CTRL ALT L + O`
+    * `ALT L + O`
 
 ---
