@@ -1,6 +1,6 @@
 # Repositório do projeto Trybewarts Wizarding School :mage:
 
-##Projeto feito em connjunto com [Jessica Santos](https://github.com/jessica-sant)
+## Projeto feito em connjunto com [Jessica Santos](https://github.com/jessica-sant)
 
 # Habilidades
 
