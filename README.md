@@ -10,14 +10,12 @@ Neste projeto, foram verificadas as seguintes habilidades:
 * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
 
 ---
+# Como abrir o projeto
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-018-a-project-trybewarts.git`.
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-018-a-project-trybewarts`
+  * `git clone https://github.com/BrunaScauri/trybe-trybewarts.git`.
 
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
+2. Instale as dependências:
     * `npm install`
 
 3. Abra o site com o aplicativo Live Server no VS Code:
