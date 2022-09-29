@@ -1,5 +1,7 @@
 # Repositório do projeto Trybewarts Wizarding School :mage:
 
+##Projeto feito em connjunto com [Jessica Santos](https://github.com/jessica-sant)
+
 # Habilidades
 
 Neste projeto, foram verificadas as seguintes habilidades:
